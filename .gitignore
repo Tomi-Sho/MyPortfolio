@@ -1,0 +1,18 @@
+# 依存ライブラリ（容量が大きく、package.jsonから再生成できるため除外）
+node_modules/
+
+# ログファイル
+*.log
+npm-debug.log*
+
+# OSが自動生成する隠しファイル
+.DS_Store
+Thumbs.db
+
+# 環境変数・機密情報（APIキーやデータベースパスワードなど）
+.env
+.env.local
+
+# エディタやIDEの設定フォルダ
+.vscode/
+.idea/
