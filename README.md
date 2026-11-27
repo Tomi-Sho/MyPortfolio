@@ -22,3 +22,6 @@ Node.js / GraphQL バックエンドとレスポンシブWebデザインを組�
 ### 開発ツール
 - **Git / GitHub**
 - **Git Bash** 
+
+## 使用方法
+- **npm run dev**でサーバーを起動後にmyportfolio.htmlを開きます。
